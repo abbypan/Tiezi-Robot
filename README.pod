@@ -16,7 +16,7 @@ HJJ : 红晋江 http://bbs.jjwxc.net
 
 =back
 
-=head1 例子
+=head1 EXAMPLE
 
     #取出指定贴子，只看楼主，且跟贴内容不能少于100字 
 
@@ -30,7 +30,7 @@ HJJ : 红晋江 http://bbs.jjwxc.net
 
     tiezi_to_any.pl -s HJJ -b 153 -q 贴子主题 -v 迷侠 -m 1 -t HTML
 
-=head1 用法
+=head1 USAGE
     
     get_tiezi.pl -u [tiezi_url] -t [packer_type] -U [only_poster] -C [min_word_num] 
 
